@@ -232,7 +232,7 @@ This project is available for personal and educational use.
 For questions or inquiries about this project:
 
 **Author:** Abhinandan Kumar 
-**Email:** abhijaiswal7479@gmail.com
+**Email:** abhinandanp635@gmail.com
 
 ---
 
